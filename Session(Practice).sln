@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Session(Practice)", "e:\Session(Practice)\", "{51404343-8C65-4FA4-A2F6-9D638BDDFCB2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Session(Practice)"
+		Debug.AspNetCompiler.PhysicalPath = "e:\Session(Practice)\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Session(Practice)\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Session(Practice)"
+		Release.AspNetCompiler.PhysicalPath = "e:\Session(Practice)\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Session(Practice)\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49966"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51404343-8C65-4FA4-A2F6-9D638BDDFCB2}.Debug|.NET.ActiveCfg = Debug|.NET
+		{51404343-8C65-4FA4-A2F6-9D638BDDFCB2}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
